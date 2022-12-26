@@ -1,8 +1,8 @@
 import time
 start_time= time.time()
 def fun():
-    a=2
-    b=3
+    a=5
+    b=5
     c=a+b
 end_time= time.time()
 fun()
